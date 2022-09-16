@@ -1,0 +1,13 @@
+package com.yirui.engineserver1;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class EngineServer1ApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
